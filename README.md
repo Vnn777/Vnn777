@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:08111F,50:1D4ED8,100:60A5FA&height=220&section=header&text=Vinicius%20Cavalcante%20Costa&fontSize=34&fontColor=FFFFFF&fontAlignY=38&desc=Desenvolvimento%20de%20Software%20%7C%20Full%20Stack%20%7C%20&descAlignY=58&descSize=16" width="100%" alt="Banner azul de Vinicius Cavalcante Costa"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:08111F,50:1D4ED8,100:60A5FA&height=220&section=header&text=Vinicius%20Cavalcante%20Costa&fontSize=34&fontColor=FFFFFF&fontAlignY=38&desc=Desenvolvimento%20de%20Software%20%7C%20Full%20Stack&descAlignY=58&descSize=16" width="100%" alt="Banner azul de Vinicius Cavalcante Costa"/>
 
 # Olá! Seja bem-vindo ao meu GitHub 👋
 
