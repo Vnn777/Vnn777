@@ -1,6 +1,10 @@
- <div align="center">
+ 
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:08111F,50:1D4ED8,100:60A5FA&height=220&section=header&text=Vinicius%20Cavalcante%20Costa&fontSize=34&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Desenvolvimento%20de%20Software%20%7C%20Full%20Stack&descAlignY=58&descSize=16" width="100%" alt="Banner azul de Vinicius Cavalcante Costa"/>
+<img
+  src="banner-vinicius.png"
+  alt="Vinicius Cavalcante Costa - Desenvolvedor de Software Full Stack"
+  width="100%" />
 
 # Olá! Seja bem-vindo ao meu GitHub 👋
 
