@@ -1,10 +1,6 @@
- 
-<div align="center">
+ <div align="center">
 
-<img
-  src="banner-vinicius.png"
-  alt="Vinicius Cavalcante Costa - Desenvolvedor de Software Full Stack"
-  width="100%" />
+<img src="banner-vinicius.png" alt="Vinicius Cavalcante Costa - Desenvolvedor de Software Full Stack" width="100%" />
 
 # Olá! Seja bem-vindo ao meu GitHub 👋
 
@@ -84,9 +80,9 @@ Projeto voltado à organização e ao acompanhamento de informações relacionad
 
 ### 📦 StockControl — Sistema de controle de estoque
 
-Projeto voltado ao controle e à organização de estoques, com foco no acompanhamento de produtos e movimentações.
+Sistema voltado ao controle e à organização de estoques, com foco no acompanhamento de produtos e movimentações.
 
-**Funcionalidades planejadas:**
+**Funcionalidades:**
 - Cadastro e consulta de produtos.
 - Acompanhamento das quantidades em estoque.
 - Registro de entradas e saídas.
