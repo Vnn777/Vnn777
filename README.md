@@ -1,8 +1,16 @@
- <div align="center">
+
+<div align="center">
 
 <a href="https://www.linkedin.com/in/vinicius-cavalcante-costa-508a712b2/">
-  <img src="./assets/banner-vinicius.png" width="100%" alt="Vinicius Cavalcante Costa | Desenvolvedor Software Full Stack"/>
+  <img
+    src="./assets/banner-vinicius.png"
+    width="100%"
+    alt="Vinicius Cavalcante Costa - Desenvolvedor Software Full Stack"
+  />
 </a>
+
+</div>
+
 
 # Olá! Seja bem-vindo ao meu GitHub 👋
 
