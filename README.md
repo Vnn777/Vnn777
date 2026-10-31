@@ -1,6 +1,6 @@
  <div align="center">
 
-<img src= "blob:https://chatgpt.com/2b64f4f5-2a37-4d74-aed0-034484604284" alt="Vinicius Cavalcante Costa - Desenvolvedor de Software Full Stack" width="100%" />
+<img src= "blob:https://chatgpt.com/2b64f4f5-2a37-4d74-aed0-034484604284" width="100%" alt="Vinicius Cavalcante Costa - Desenvolvedor de Software Full Stack" />
 
 # Olá! Seja bem-vindo ao meu GitHub 👋
 
