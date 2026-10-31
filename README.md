@@ -1,16 +1,6 @@
+ <div align="center">
 
-<div align="center">
-
-<a href="https://www.linkedin.com/in/vinicius-cavalcante-costa-508a712b2/">
-  <img
-    src="./assets/banner-vinicius.png"
-    width="100%"
-    alt="Vinicius Cavalcante Costa - Desenvolvedor Software Full Stack"
-  />
-</a>
-
-</div>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:08111F,50:1D4ED8,100:60A5FA&height=220&section=header&text=Vinicius%20Cavalcante%20Costa&fontSize=34&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Desenvolvimento%20de%20Software%20%7C%20Full%20Stack&descAlignY=58&descSize=16" width="100%" alt="Banner azul de Vinicius Cavalcante Costa"/>
 
 # Olá! Seja bem-vindo ao meu GitHub 👋
 
@@ -78,4 +68,118 @@ Aplicação web voltada à organização e ao armazenamento de documentos digita
 
 ---
 
-### 🛡
+### 🛡️ Sistema de monitoramento de normas do SESMT
+
+Projeto voltado à organização e ao acompanhamento de informações relacionadas às normas de Segurança e Saúde no Trabalho.
+
+**Objetivo:** utilizar a tecnologia para centralizar informações e facilitar o acompanhamento de normas e procedimentos.
+
+**Área:** desenvolvimento de sistemas e organização de informações.
+
+---
+
+### 📦 StockControl — Sistema de controle de estoque
+
+Projeto voltado ao controle e à organização de estoques, com foco no acompanhamento de produtos e movimentações.
+
+**Funcionalidades planejadas:**
+- Cadastro e consulta de produtos.
+- Acompanhamento das quantidades em estoque.
+- Registro de entradas e saídas.
+- Identificação de produtos que precisam de reposição.
+
+**Área:** sistemas de gestão e controle de estoque.
+
+---
+
+## 💡 Outros projetos em planejamento
+
+### 🎫 TechFlow — Controlador de chamados de TI
+
+Proposta de sistema para centralizar solicitações de suporte técnico e organizar o atendimento de chamados.
+
+**Funcionalidades planejadas:**
+- Abertura e acompanhamento de chamados.
+- Organização por prioridade e status.
+- Histórico das solicitações.
+- Acompanhamento do fluxo de atendimento.
+
+**Objetivo:** melhorar a organização e a gestão dos serviços de suporte de TI.
+
+---
+
+### 👥 OnboardFlow — Integração de funcionários
+
+Proposta de plataforma para organizar as etapas de integração de novos colaboradores em uma empresa.
+
+**Funcionalidades planejadas:**
+- Checklists de integração.
+- Acompanhamento de tarefas e etapas.
+- Organização de documentos e orientações.
+- Visualização do progresso da integração.
+
+**Objetivo:** tornar o processo de integração mais organizado e facilitar o acompanhamento das atividades.
+
+---
+
+### 📊 SalesVision — Dashboard de indicadores
+
+Proposta de dashboard para consolidar dados e apresentar indicadores importantes para o acompanhamento de resultados empresariais.
+
+**Funcionalidades planejadas:**
+- Painel de indicadores de desempenho.
+- Gráficos e visualização de dados.
+- Filtros para análise de informações.
+- Acompanhamento de resultados e tendências.
+
+**Objetivo:** transformar dados em informações visuais que apoiem a análise e a tomada de decisões.
+
+---
+
+### 🖥️ AssetTrack — Gestão de equipamentos de TI
+
+Proposta de sistema para organizar o inventário de equipamentos de tecnologia de uma empresa.
+
+**Funcionalidades planejadas:**
+- Cadastro e identificação de equipamentos.
+- Controle de responsáveis e alocações.
+- Acompanhamento do estado dos ativos.
+- Registro de manutenções e movimentações.
+
+**Objetivo:** facilitar o controle dos recursos de TI e melhorar a organização do inventário tecnológico.
+
+---
+
+> 🧠 **Minha abordagem:** desenvolver soluções para problemas reais, praticar boas técnicas de programação e evoluir continuamente na construção de sistemas.
+
+## 🎯 Objetivos profissionais
+
+- Aprofundar meus conhecimentos em desenvolvimento Full Stack e Java.
+- Desenvolver aplicações com código organizado e de fácil manutenção.
+- Aprimorar minhas habilidades com bancos de dados e integração entre sistemas.
+- Construir um portfólio com projetos práticos e relevantes.
+- Aprender com profissionais experientes e contribuir para projetos de tecnologia.
+
+## 🤝 Vamos nos conectar?
+
+Estou aberto a conexões profissionais, troca de conhecimentos, projetos colaborativos e oportunidades para desenvolver minha carreira na área de tecnologia.
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/vinicius-cavalcante-costa-508a712b2/">
+  <img src="https://img.shields.io/badge/Meu%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Meu LinkedIn"/>
+</a>
+
+<a href="https://github.com/Vnn777">
+  <img src="https://img.shields.io/badge/Explorar%20meus%20projetos-111827?style=for-the-badge&logo=github&logoColor=white" alt="Meus projetos no GitHub"/>
+</a>
+
+<br/>
+
+**Obrigado por visitar meu perfil!**
+
+*Aprender. Praticar. Construir. Evoluir.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:60A5FA,50:1D4ED8,100:08111F&height=100&section=footer" width="100%" alt="Rodapé azul"/>
+
+</div>
