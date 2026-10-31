@@ -181,5 +181,3 @@ Estou aberto a conexões profissionais, troca de conhecimentos, projetos colabor
 *Aprender. Praticar. Construir. Evoluir.*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:60A5FA,50:1D4ED8,100:08111F&height=100&section=footer" width="100%" alt="Rodapé azul"/>
-
-</div>
