@@ -10,17 +10,23 @@
   <rect width="1200" height="220" fill="url(#bg)"/>
 
   <g fill="none" stroke="#38BDF8" stroke-width="2" opacity="0.8">
+
     <path d="M0 130 Q300 40 600 130 T1200 130">
-      <animate attributeName="d"
+      <animate
+        attributeName="d"
         values="M0 130 Q300 40 600 130 T1200 130;M0 130 Q300 220 600 130 T1200 130;M0 130 Q300 40 600 130 T1200 130"
-        dur="6s" repeatCount="indefinite"/>
+        dur="6s"
+        repeatCount="indefinite"/>
     </path>
 
     <path d="M0 155 Q300 65 600 155 T1200 155">
-      <animate attributeName="d"
+      <animate
+        attributeName="d"
         values="M0 155 Q300 65 600 155 T1200 155;M0 155 Q300 245 600 155 T1200 155;M0 155 Q300 65 600 155 T1200 155"
-        dur="8s" repeatCount="indefinite"/>
+        dur="8s"
+        repeatCount="indefinite"/>
     </path>
+
   </g>
 
   <g text-anchor="middle" font-family="Arial">
