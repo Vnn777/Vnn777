@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%" alt="Banner profissional"/>
+<img src="https://raw.githubusercontent.com/Vnn777/Vnn777/main/assets/banner.svg" width="100%" alt="Banner"/>
 
 </div>
 
