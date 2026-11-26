@@ -1,9 +1,7 @@
+
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Vnn777/Vnn777/main/assets/banner.svg" width="100%" alt="Banner"/>
-
-</div>
-
+<img src="https://raw.githubusercontent.com/Vnn777/Vnn777/main/assets/banner.svg?v=2" width="100%" alt="Banner"/>
 
 # Olá! Seja bem-vindo ao meu GitHub 👋
 
@@ -15,6 +13,7 @@ Construindo conhecimento, desenvolvendo projetos e transformando ideias em solu�
   <a href="https://github.com/Vnn777">
     <img src="https://img.shields.io/badge/GitHub-Vnn777-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+
   <a href="https://www.linkedin.com/in/vinicius-cavalcante-costa-508a712b2/">
     <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
