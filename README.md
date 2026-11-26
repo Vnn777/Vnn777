@@ -5,9 +5,7 @@
      alt="Vinicius Cavalcante Costa - Desenvolvedor de Software"/>
 
 </div>
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050B14,50:0A2540,100:00BFFF&height=230&section=header&text=Vinicius%20Cavalcante%20Costa&fontSize=34&fontColor=FFFFFF&fontAlignY=35&desc=Desenvolvedor%20de%20Software%20%7C%20Python&descAlignY=58&descSize=20" width="100%" alt="Banner profissional"/>
 
 # Olá! Seja bem-vindo ao meu GitHub 👋
 
