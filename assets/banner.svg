@@ -15,6 +15,7 @@
         values="M0 130 Q300 40 600 130 T1200 130;M0 130 Q300 220 600 130 T1200 130;M0 130 Q300 40 600 130 T1200 130"
         dur="6s" repeatCount="indefinite"/>
     </path>
+
     <path d="M0 155 Q300 65 600 155 T1200 155">
       <animate attributeName="d"
         values="M0 155 Q300 65 600 155 T1200 155;M0 155 Q300 245 600 155 T1200 155;M0 155 Q300 65 600 155 T1200 155"
@@ -23,14 +24,18 @@
   </g>
 
   <g text-anchor="middle" font-family="Arial">
+
     <text x="600" y="85" fill="white" font-size="38" font-weight="bold">
       Vinicius Cavalcante Costa
     </text>
+
     <text x="600" y="125" fill="#38BDF8" font-size="23">
-      Desenvolvedor de Software | Full Stack
+      Desenvolvedor de Software | Python
     </text>
+
     <text x="600" y="158" fill="#CBD5E1" font-size="17">
       Estudante de Análise e Desenvolvimento de Sistemas
     </text>
+
   </g>
 </svg>
